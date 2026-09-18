@@ -12,4 +12,11 @@ Hi everyone! This program was created to give you the ability to apply random cu
 1. If you want to randomize all sight assignments just once, select **"Regenerate custom sights right now"**.
 2. If you want complete automation, enable **"Use auto-generate with start game"**. Once this option is turned on, you don't need to open the program manually anymore—it will quietly run on Windows startup and automatically change your sight configurations every time the game launches.
 
+### WarThunder Sight Packs
+
+[No NSFW Pack](https://drive.google.com/file/d/16VhPD_EpzJRZqnmbGfScjCLQY7iFinOb/view?usp=sharing)
+
+[Only NSFW Pack](https://drive.google.com/file/d/1pcwEDqzmXvISur4b0Z_9mbr3t2fKSs2Y/view?usp=sharing)
+
+
 *Just a quick heads-up: if you want to keep your current sight assignments, make sure to back up your `global.blk` file somewhere safe first.*
