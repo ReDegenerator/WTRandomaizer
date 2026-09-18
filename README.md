@@ -12,4 +12,9 @@
 1. Если вы хотите один раз заменить привязку всех прицелов то выберите `Regenerate custom sights right now`
 2. Если же вы хотите полной автономности то включите `Use auto-generate with start game`. Если вы включили эту опцию то теперь можете больше не запускать программу вообще, она скрытно запускается при каждом запуске Windows и при каждом запуске игры меняет привязки прицелов
 
+### Паки прицелов для WarThunder
+[No NSFW Pack](https://drive.google.com/file/d/16VhPD_EpzJRZqnmbGfScjCLQY7iFinOb/view?usp=sharing)
+
+[Only NSFW Pack](https://drive.google.com/file/d/1pcwEDqzmXvISur4b0Z_9mbr3t2fKSs2Y/view?usp=sharing)
+
 *Сразу скажу что если вы хотите сохранить свою привязку то сохраните global.blk где-нибудь.
